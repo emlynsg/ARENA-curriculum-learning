@@ -1,3 +1,48 @@
+# Status
+
+### Chapter 0: Fundamentals
+- [x] Prerequisites
+- [ ] Ray Tracing
+- [ ] CNNs & ResNets
+- [ ] Optimization
+- [ ] Backpropagation
+- [ ] VAEs & GANs
+
+### Chapter 1: Transformer Interpretability
+- [ ] Transformer from Scratch
+- [ ] Intro to Mech Interp
+- [ ] Linear Probes
+- [ ] Function Vectors & Model Steering
+- [ ] Interp with SAEs
+- [ ] Activation Oracles
+- [ ] Indirect Object Identification
+- [ ] SAE Circuits
+- [ ] Balanced Bracket Classifier
+- [ ] Grokking & Modular Arithmetic
+- [ ] OthelloGPT
+- [ ] Toy Models of Superposition & SAEs
+
+### Chapter 2: Reinforcement Learning
+- [ ] Intro to RL
+- [ ] Q-Learning and Policy Gradient
+- [ ] DQN
+- [ ] VPG
+- [ ] PPO
+- [ ] RLHF
+
+### Chapter 3: LLM Evaluations
+- [ ] Intro to Evals
+- [ ] Dataset Generation
+- [ ] Running Evals with Inspect
+- [ ] LLM Agents
+
+### Chapter 4: Alignment Science
+- [ ] Emergent Misalignment
+- [ ] Science of Misalignment
+- [ ] Interpreting Reasoning Models
+- [ ] Persona Vectors
+- [ ] Investigator Agents
+
 ### ARENA [slack channel](https://join.slack.com/t/arena-uk/shared_invite/zt-3d3sro2sn-lACCkkoA3Sjm8J0pvWSaGQ)
 
 * Please report any errors/concerns with the material in #errata.
