@@ -5,7 +5,15 @@
 offline environment checks, a package inventory and the VS Code workspace.
 The course's normal exercise layout is unchanged.
 
-After a fresh clone, use this layout:
+The GitHub repository is `emlynsg/ARENA-curriculum-learning`. Keep its local
+folder named `ARENA_3.0`, which the course notebooks and workspace expect.
+From the `arena-curriculum/` parent folder, a fresh clone is:
+
+```bash
+git clone https://github.com/emlynsg/ARENA-curriculum-learning.git ARENA_3.0
+```
+
+Use this layout:
 
 ```text
 arena-curriculum/
