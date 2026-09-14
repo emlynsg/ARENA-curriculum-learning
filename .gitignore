@@ -80,6 +80,7 @@ january24_arena
 november24_bigrams
 
 # Cloned exernal repos
+/arena-llm-context/
 chapter4_alignment_science/exercises/ai-psychosis
 chapter4_alignment_science/exercises/assistant-axis
 chapter4_alignment_science/exercises/persona_vectors

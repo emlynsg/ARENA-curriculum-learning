@@ -1,0 +1,21 @@
+set shell := ["bash", "-eu", "-o", "pipefail", "-c"]
+arena_python := env_var("HOME") + "/miniconda3/envs/arena-env/bin/python"
+
+default:
+    @just --list
+
+# Validate the existing environment; no surprise dependency changes.
+env:
+    {{arena_python}} -m pip check
+
+check:
+    {{arena_python}} check_environment.py
+
+imports:
+    {{arena_python}} audit_notebook_imports.py
+
+vram:
+    nvidia-smi
+
+lab:
+    cd ARENA_3.0 && {{arena_python}} -m jupyterlab --no-browser

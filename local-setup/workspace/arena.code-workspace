@@ -1,0 +1,12 @@
+{
+  "folders": [{"path": "."}],
+  "settings": {
+    "python.defaultInterpreterPath": "/home/emlyn/miniconda3/envs/arena-env/bin/python",
+    "python.analysis.extraPaths": [
+      "./ARENA_3.0/chapter0_fundamentals/exercises",
+      "./ARENA_3.0/chapter1_transformer_interp/exercises",
+      "./ARENA_3.0/chapter2_rl/exercises"
+    ]
+  },
+  "extensions": {"recommendations": ["ms-python.python", "ms-toolsai.jupyter"]}
+}
