@@ -2,7 +2,7 @@
 
 ### Chapter 0: Fundamentals
 - [x] Prerequisites
-- [ ] Ray Tracing
+- [x] Ray Tracing
 - [ ] CNNs & ResNets
 - [ ] Optimization
 - [ ] Backpropagation
