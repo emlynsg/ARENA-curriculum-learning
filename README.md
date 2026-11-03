@@ -3,7 +3,7 @@
 ### Chapter 0: Fundamentals
 - [x] Prerequisites
 - [x] Ray Tracing
-- [ ] CNNs & ResNets
+- [x] CNNs & ResNets
 - [ ] Optimization
 - [ ] Backpropagation
 - [ ] VAEs & GANs
